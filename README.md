@@ -97,7 +97,6 @@ If you like the project, please ⭐ star the repo to support us!
 ## 🔗 Connect With WishSparkle
 - 🌐 Website: https://wishsparkle.com/  
 - 🐦 Twitter: https://x.com/findbestwish
-- 📬 Contact: (add your email if needed)  
 
 ---
 
